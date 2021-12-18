@@ -1,0 +1,17 @@
+
+{
+    "_QPVersion": "0.1.1",
+    "name": "Nothing",
+    "id": "id",
+    "author": "RockThePandora",
+    "version": "0.1.0",
+    "packageId": "com.beatgames.beatsaber",
+    "packageVersion": "1.17.1",
+    "description": "a mod that does nothing",
+    "modFiles": [
+        "lib#{id}.so"
+    ],
+    "libraryFiles": [
+        "libbeatsaber-hook_2_3_0.so"
+    ]
+}
