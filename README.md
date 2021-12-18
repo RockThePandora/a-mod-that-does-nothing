@@ -1,6 +1,6 @@
-# #{name}
+Nothing
 
-#{description}
+Does actually nothing
 
 ## Credits
 
